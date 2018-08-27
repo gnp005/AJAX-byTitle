@@ -1,0 +1,20 @@
+:root{
+  font-size: 16px;
+}
+
+
+
+.container{
+  color: rgb(255,255,255);
+  padding-top: 2rem;
+  background: rgba(3, 166, 120,0.8)
+}
+
+.card-body{
+  color: rgb(255,255,255);
+  background: rgba(3,166,120,0.7)
+}
+
+.card-footer{
+  background:rgba(3,166,120,0.2)
+}
